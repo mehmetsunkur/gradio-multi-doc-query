@@ -3,6 +3,9 @@ channels:
   - conda-forge
 dependencies:
   - python
+  - pip
+  - jupyter
+  - jupyterlab
   - ipython
   - ipykernel
   - pip:
